@@ -34,7 +34,9 @@ pandas install by conda.
 
 and sklearn can be install by following two path in conda. 
 
-firstly, we can use the code from its website. 
+firstly, we can use the code from its website.  
+https://scikit-learn.org/stable/install.html. 
+
 
 step 1. 
 
