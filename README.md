@@ -51,5 +51,9 @@ secondly, we can also use the code from anaconda
 (however I have not tried it successfully on my windows pc for some unknown reasons.  
 
     conda install -c anaconda scikit-learn 
-  
-  so
+especially，we need to know that scikit-learn can be called sklearn 
+from the website I found that sklearn ver being too low may cause some error. 
+
+and my conda list(part) is provided following:  
+<img width="503" alt="image" src="https://user-images.githubusercontent.com/72375161/219000206-6cb31371-8698-4b9c-bcf5-3f69b9ab38cc.png">
+
