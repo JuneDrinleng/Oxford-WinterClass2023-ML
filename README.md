@@ -17,10 +17,11 @@ when I transformed into mac, I surprisingly found that it works
 
 
 ## Session 1  
+pandas install by conda  
 
-pandas install by conda
     conda install -c anaconda pandas 
-numpy install by conda
+numpy install by conda  
+
     conda install -c anaconda numpy  
     
 ## Session 2  
