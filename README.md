@@ -31,3 +31,17 @@ pandas install by conda.
     conda install -c "conda-forge/label/cf201901" missingno
     conda install -c "conda-forge/label/cf202003" missingno
     conda install -c "conda-forge/label/gcc7" missingno 
+
+and sklearn can be install by following two path in conda. 
+
+firstly, we can use the code from its website. 
+
+step 1 
+    conda create -n sklearn-env -c conda-forge scikit-learn
+    conda activate sklearn-env
+step 2. 
+    conda list scikit-learn  # to see which scikit-learn version is installed
+    conda list  # to see all packages installed in the active conda environment
+    python -c "import sklearn; sklearn.show_versions()"
+secondly, we can also use the code from anaconda (however I have not tried it successfully on my windows pc for some unknown reasons.  
+    conda install -c anaconda scikit-learn 
