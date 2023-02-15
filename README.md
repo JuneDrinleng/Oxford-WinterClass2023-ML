@@ -51,3 +51,5 @@ secondly, we can also use the code from anaconda
 (however I have not tried it successfully on my windows pc for some unknown reasons.  
 
     conda install -c anaconda scikit-learn 
+  
+  so
