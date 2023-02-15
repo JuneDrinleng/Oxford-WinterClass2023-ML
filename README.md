@@ -45,5 +45,7 @@ step 2.
     conda list scikit-learn  # to see which scikit-learn version is installed
     conda list  # to see all packages installed in the active conda environment
     python -c "import sklearn; sklearn.show_versions()"
-secondly, we can also use the code from anaconda (however I have not tried it successfully on my windows pc for some unknown reasons.  
+secondly, we can also use the code from anaconda   
+(however I have not tried it successfully on my windows pc for some unknown reasons.  
+
     conda install -c anaconda scikit-learn 
