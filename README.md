@@ -25,7 +25,8 @@ numpy install by conda
     conda install -c anaconda numpy  
     
 ## Session 2  
-pandas install by conda
+pandas install by conda. 
+
     conda install -c conda-forge missingno
     conda install -c "conda-forge/label/cf201901" missingno
     conda install -c "conda-forge/label/cf202003" missingno
