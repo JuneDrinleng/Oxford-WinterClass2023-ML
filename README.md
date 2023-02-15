@@ -36,10 +36,12 @@ and sklearn can be install by following two path in conda.
 
 firstly, we can use the code from its website. 
 
-step 1 
+step 1. 
+
     conda create -n sklearn-env -c conda-forge scikit-learn
     conda activate sklearn-env
 step 2. 
+
     conda list scikit-learn  # to see which scikit-learn version is installed
     conda list  # to see all packages installed in the active conda environment
     python -c "import sklearn; sklearn.show_versions()"
